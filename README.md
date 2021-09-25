@@ -5,7 +5,9 @@ Amily Luo:
 www.linkedin.com/in/amaliyaluo
 https://github.com/amaliyal
 
-Beth Allum: www.linkedin.com/in/bethallum
+Beth Allum: 
+www.linkedin.com/in/bethallum
+https://github.com/ballum75
 
 María Ten: 
 www.linkedin.com/in/maría-ten
